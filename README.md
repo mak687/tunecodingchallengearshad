@@ -1,6 +1,6 @@
 ## PROJECT SETUP STEPS 
 
-Go to root directory of project & then follow below steps & run mentioned commands
+Open Command Terminal & Go to root directory of project & then follow below steps & run mentioned commands
 
 - <b>Step # 1 Installation of Dependencies</b>
 
@@ -82,3 +82,5 @@ Now open the assigned URL in the browser.
 - Currently API is open. Authentication is not applied
 
 - Avatar S3 Image are blocked so i place a logic for displaying Fallback avatar images which is store in employee table.
+
+- If your local machine already has PHP and Composer installed & conifgure PHP in global enviornment of system then you can directly use PHP & Composer else you have to specify PHP path in CLI & composer.phar is included in project.
