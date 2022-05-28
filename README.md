@@ -1,5 +1,7 @@
 ## PROJECT SETUP STEPS 
 
+Add project file in LAMP Directory i.e for XAMPP add it on htdocs
+
 Open Command Terminal & Go to root directory of project & then follow below steps & run mentioned commands
 
 - <b>Step # 1 Installation of Dependencies</b>
